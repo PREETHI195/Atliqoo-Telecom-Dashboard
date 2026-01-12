@@ -1,9 +1,9 @@
 Telecom Performance Analysis – Power BI Dashboard
 
  📊 Project Overview
-This project presents a comprehensive performance analysis of Atliqo, a telecom service provider, using interactive Power BI dashboards**.
+This project presents a comprehensive performance analysis of Atliqo, a telecom service provider, using interactive Power BI dashboards.
 The analysis evaluates the business impact before and after 5G implementation, focusing on revenue, active users, ARPU, 
-market share, and plan-wise performance** across multiple cities.
+market share, and plan-wise performance across multiple cities.
 
 📈 Key Metrics & DAX Measures
 Total Revenue
